@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "../styles/card.module.css";
 import cls from "classnames";
+
 const Card = (props) => {
   return (
     <div>
