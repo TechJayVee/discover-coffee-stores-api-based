@@ -5,9 +5,9 @@ const Banner = (props) => {
     <div className={styles.container}>
       <h1 className={styles.title}>
         <span className={styles.title1}>Coffee</span>
-        <span className={styles.title2}> Connoisseur</span>
+        <span className={styles.title2}> Jayvee</span>
       </h1>
-      <p className={styles.subTitle}>Discover yoyr local coffee shop!</p>
+      <p className={styles.subTitle}>Discover your local coffee shop!</p>
 
       <div className={styles.buttonWrapper}>
         <button className={styles.button} onClick={props.handleOnClick}>
